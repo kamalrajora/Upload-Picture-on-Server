@@ -1,0 +1,10 @@
+{ 
+  "name": "uploadFile",
+  "version": "1.0.0",
+  "description": "File Upload with HTML5 and HapiJS",
+  "dependencies": {
+    "hapi": "^7.5.2",
+    "handlebars": "*",
+    "fs": "*"
+  }
+}
